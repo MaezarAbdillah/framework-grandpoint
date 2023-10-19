@@ -7,7 +7,7 @@
 @section('content')
 <div class="w-full h-full flex">
     @include('components.sidebar')
-    <div class="h-full m-4 p-8 bg-white rounded-lg drop-shadow-md">
+    <div class="w-full h-full m-4 p-8 bg-gradient-to-br from-gray-400 via-gray-700 to-gray-900 rounded-lg drop-shadow-md">
         <p class="text-4xl font-bold mb-4">Data Lapangan</p>
         <hr><br>
         <div class="w-full h-auto flex justify-end">
@@ -19,7 +19,7 @@
         <div class="relative overflow-x-auto">
             <table class="w-full text-sm text-left text-gray-500">
                 <thead class="text-xs text-gray-700 uppercase bg-gray-50">
-                    <tr>
+                    <tr class="border-2">
                         <th scope="col" class="px-6 py-3">
                             No.
                         </th>
@@ -34,11 +34,11 @@
                         </th>
                     </tr>
                 </thead>
-                <tbody>
+                <tbody class="text-white">
                     @foreach ($lapangan as $l)
-                        <tr class="bg-white border-b">
+                        <tr class="bg-gray-800 border-2">
                             <th scope="row"
-                                class="px-6 py-4 font-medium text-gray-900
+                                class="px-6 py-4 font-medium text-green-500
 
                 whitespace-nowrap">
 
