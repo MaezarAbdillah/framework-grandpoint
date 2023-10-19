@@ -7,8 +7,9 @@
 ![footer](https://github.com/MaezarAbdillah/framework-grandpoint/assets/113416817/a2be7385-8474-4ea8-a0ba-5e41990bdb72)
 
 ## 3. Kelola Order Admin
-![order](https://github.com/MaezarAbdillah/framework-grandpoint/assets/113416817/e1fd4329-662b-4d08-a8b7-1cb6dac4dce3)
+![order](https://github.com/MaezarAbdillah/framework-grandpoint/assets/113416817/1ca55ff3-bc8b-406b-993a-99459092e60c)
+
 
 ## 4. Kelola Lapangan Admin
-![lapangan](https://github.com/MaezarAbdillah/framework-grandpoint/assets/113416817/96c36336-b286-4763-9dc0-935caa651212)
+![lapangan](https://github.com/MaezarAbdillah/framework-grandpoint/assets/113416817/352c641c-4496-49b1-95c0-ffe28f14fd1c)
  
