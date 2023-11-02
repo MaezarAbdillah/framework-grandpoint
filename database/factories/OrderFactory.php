@@ -22,8 +22,8 @@ class OrderFactory extends Factory
             'jam' => fake()->numberBetween(10,23),
             'hari' => fake()->randomElement(['Senin','Selasa','Rabu','Kamis','Jumat','Sabtu','Minggu']),
             'durasi' => fake()->numberBetween(1,3),
-            'id_lap' => Lapangan::all()->random()->id,
-            'id_pengguna' => Pengguna::all()->random()->id,
+            'lapangan_id' => Lapangan::all()->random()->id,
+            'pengguna_id' => Pengguna::all()->random()->id,
         ];
     }
 }

@@ -1,4 +1,4 @@
-<div class="bg-gradient-to-r from-black via-green-950 to-green-800 w-full">
+<div class="absolute w-full">
     <div class="flex flex-row">
         <div class="flex w-96">
             <div>
@@ -14,7 +14,7 @@
             </div>
             <div class="flex justify-end w-96 ">
                 <a href="{{route('login')}}" class="block px-6 py-2 text-white hover:font-bold">Sign In</a>
-                <a href="#" class="block px-6 py-2 text-white hover:font-bold">Sign Up</a>
+                <a href="{{route('register')}}" class="block px-6 py-2 text-white hover:font-bold">Sign Up</a>
             </div>
         </div>
     </div>
